@@ -1,1 +1,1 @@
-![AcoYTMC's github stats](https://github-readme-stats.vercel.app/api?username=AcoYTMC&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+[![AcoYTMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=AcoYTMC)](https://github.com/anuraghazra/github-readme-stats)
